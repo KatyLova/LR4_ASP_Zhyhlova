@@ -1,0 +1,34 @@
+{
+  "books": [
+    {
+      "title": "Green Mile",
+      "author": "Steven King",
+      "genre": "horror",
+      "year": 2014
+    },
+    {
+      "title": "Gone With the Wind",
+      "author": "Margaret Mitchell",
+      "genre": "novel",
+      "year": 2020
+    },
+    {
+      "title": "Count of Monte Cristo",
+      "author": "Alexandr Duma",
+      "genre": "Historical Adventures",
+      "year": 2017
+    },
+    {
+      "title": "Romeo and Juliet",
+      "author": "William Shakespeare",
+      "genre": "shakespearean tragedy",
+      "year": 1597
+    },
+    {
+      "title": "Nineteen Eighty-Four",
+      "author": "George Orwell",
+      "genre": "dystopian",
+      "year": 1948
+    }
+  ]
+}
